@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="zkclient:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zkclient_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="zkclient/web/Web" />
+    </root>
+  </artifact>
+</component>
