@@ -10,7 +10,6 @@ public class DeleteCallBack implements BackgroundCallback {
 		System.out.println(event.getPath()+",data="+event.getData());
 		System.out.println("event type="+event.getType());
 		System.out.println("event code="+event.getResultCode());
-
 		
 	}
 
